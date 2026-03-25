@@ -5,7 +5,7 @@ An end-to-end Machine Learning system that automatically analyzes resumes, match
 ---
 
 ## 🌐 Live Demo
-👉 https://your-resume-app.streamlit.app
+👉 https://hashwik-resume-screening.streamlit.app/
 
 ---
 
